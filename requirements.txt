@@ -1,0 +1,8 @@
+# =========================
+# requirements.txt
+# =========================
+Flask
+flask-cors
+gunicorn
+pymongo
+dnspython
